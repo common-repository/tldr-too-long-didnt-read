@@ -1,0 +1,27 @@
+/*
+ *	Default style for TL;DR
+ */
+
+.tldr-section {
+	float: left;
+	padding: 0 0.5em 0 0;
+}
+
+.tldr-list {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.tldr-link {}
+.tldr-link span {
+	display: inline-block;
+	padding: 0 0.2em;
+}
+
+.tldr {
+	font-weight: bold;
+}
+.tldr-text {
+	display: inline-block;
+}
